@@ -1,2 +1,2 @@
 # Voting
-Solidty Defi Voting 
+Solidity Defi Voting 
